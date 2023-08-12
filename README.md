@@ -5,9 +5,9 @@
 - 👯 Gosto da programação por poder criar o que eu quiser ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmassaia&show_icons=true&theme=radical)](https://github.com/gabrielmassaia/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoMeisterI&show_icons=true&theme=radical)](https://github.com/JoaoMeisterI/JoaoMeisterI/blob/main/README.md?plain=1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassaia&theme=radical&layout=compact)](https://github.com/gabrielmassaia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMeisterI&theme=radical&layout=compact)](https://github.com/JoaoMeisterI/JoaoMeisterI)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
