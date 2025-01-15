@@ -7,4 +7,4 @@
 
 📫 **E-mail**: joaopedromeisterivacow@gmail.com  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SEU_USUARIO_GITHUB&theme=dracula)
+
